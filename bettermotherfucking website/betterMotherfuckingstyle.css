@@ -1,0 +1,41 @@
+h1, h2,h3, h4, p
+{
+	color: gray;
+	text-align: justify-all;
+}
+
+p
+{
+	font-size: larger;
+}
+ul
+{
+	font-size: larger;
+	width: 600px; /* On a indiqué une largeur (obligatoire) */
+    margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;
+}
+ul
+{
+	color: gray;
+}
+p
+{
+    width: 600px; /* On a indiqué une largeur (obligatoire) */
+    margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;
+}
+h1, h2, h3, h4
+{
+	 width: 600px; /* On a indiqué une largeur (obligatoire) */
+    margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;
+}
+
+
